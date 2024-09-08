@@ -3,7 +3,7 @@ Paper list of visual data compression for machines, including image/video coding
 
 **Maintained by:** [Lingyu Zhu](https://scholar.google.com/citations?user=IhyTEDkAAAAJ&hl=zh-CN)
 
-Looking forward to your sharing! 
+Looking forward to your sharing and discussion! 
 
 ## Updated on 2024.09.08
 
