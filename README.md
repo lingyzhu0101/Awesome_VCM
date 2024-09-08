@@ -20,7 +20,7 @@ Paper list of image and video coding for machines
 |**2024.07.22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 
 
-## Image/Video Coding for Machines
+## Feature Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ Paper list of image and video coding for machines
 
 
 
-## Image/Video Coding for Machines
+## Collaborative Coding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ Paper list of image and video coding for machines
 
 
 
-## Image/Video Coding for Machines
+## Point Cloud for Machines
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
