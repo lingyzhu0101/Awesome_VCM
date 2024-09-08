@@ -1,6 +1,10 @@
 # Awesome_VCM
 Paper list of visual data compression for machines, including image/video coding for machines, feature compression, collaborative coding, and point cloud compression for machines. 
 
+**Maintained by:** [Lingyu Zhu](https://scholar.google.com/citations?user=IhyTEDkAAAAJ&hl=zh-CN)
+
+Looking forward to your sharing! 
+
 ## Updated on 2024.09.08
 
 <details>
