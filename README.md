@@ -23,7 +23,7 @@ If you come across recipes that work well and fit this topic, feel free to post 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024.07**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
+|**2024.04**|**Deep Video Codec Control for Vision Model**|Christoph Reich et.al.|[2308.16215](https://arxiv.org/pdf/2308.16215)|null|
 
 
 ## Feature Compression
