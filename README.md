@@ -15,7 +15,7 @@ If you come across recipes that work well and fit this topic, feel free to post 
     <li><a href=#Feature Compression>Feature Compression</a></li>
     <li><a href=#Collaborative Coding>Collaborative Coding</a></li>
     <li><a href=#Point Cloud Compression for Machines>Point Cloud for Machines</a></li>
-    <li><a href=#Image/Video Coding Meets Large Multimodal Models>Point Cloud for Machines</a></li>
+    <li><a href=#Image/Video Coding Meets Large Multimodal Models>Image/Video Coding Meets Large Multimodal Models</a></li>
   </ol>
 </details>
 
