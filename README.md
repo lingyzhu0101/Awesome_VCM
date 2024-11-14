@@ -23,14 +23,14 @@ If you come across recipes that work well and fit this topic, feel free to post 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024.07.22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
+|**2024.07**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 
 
 ## Feature Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024.07.22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
+|**2024.07**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 
 
 
@@ -38,7 +38,7 @@ If you come across recipes that work well and fit this topic, feel free to post 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024.07.22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
+|**2024.07**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 
 
 
@@ -46,7 +46,7 @@ If you come across recipes that work well and fit this topic, feel free to post 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024.07.22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
+|**2024.07**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 
 
 
@@ -55,5 +55,5 @@ If you come across recipes that work well and fit this topic, feel free to post 
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024.07.22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
+|**2024.07**|**When Video Coding Meets Multimodal Large Language Models: A Unified Paradigm for Video Coding**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 
