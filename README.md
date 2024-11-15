@@ -40,7 +40,7 @@ Paper list of visual data compression for machines, including image/video coding
 |**2024.04**|**Deep Video Codec Control for Vision Model**|Christoph Reich et.al.|[2308.16215](https://arxiv.org/pdf/2308.16215)|null|
 |**2024.04**|**A Perspective on Deep Vision Performance with Standard Image and Video Codecs**|Christoph Reich et.al.|[CVPRW](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Reich_A_Perspective_on_Deep_Vision_Performance_with_Standard_Image_and_CVPRW_2024_paper.pdf)|null|
 |**2024.04**|**Task-Aware Encoder Control for Deep Video Compression**|Xingtong Ge et.al.|[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Ge_Task-Aware_Encoder_Control_for_Deep_Video_Compression_CVPR_2024_paper.pdf)|null|
-|**2024.01**|**Image Coding for Machines based on Non-Uniform Importance Allocation**|Yunpeng Qi et.al.|[VCIP](https://ieeexplore.ieee.org/abstract/document/10402758)|null|
+|**2023.12**|**Image Coding for Machines based on Non-Uniform Importance Allocation**|Yunpeng Qi et.al.|[VCIP](https://ieeexplore.ieee.org/abstract/document/10402758)|null|
 |**2023.12**|**Scalable Face Image Coding via StyleGAN Prior: Towards Compression for Human-Machine Collaborative Vision**|Qi Mao et.al.|[TIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10372532)|null|
 |**2023.10**|**Sketch Assisted Face Image Coding for Human and Machine Vision: A Joint Training Approach**|Xin Fang et.al.|[TCSVT](https://ieeexplore.ieee.org/abstract/document/10082973)|null|
 |**2023.10**|**Deepsvc: Deep scalable video coding for both machine and human vision**|Hongbin Lin et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3612500)|null|
@@ -50,8 +50,6 @@ Paper list of visual data compression for machines, including image/video coding
 |**2023.06**|**Semantic Preprocessor for Image Compression for Machines**|Mingyi Yang et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/10096472)|null|
 |**2023.05**|**Prompt-icm: A unified framework towards image coding for machines with task-driven prompts**|Ruoyu Feng et.al.|[2305.02578](https://arxiv.org/abs/2305.02578)|null|
 |**2023.05**|**Fast VVC Intra Encoding for Video Coding for Machines**|Aorui Gou et.al.|[ISCAS](https://ieeexplore.ieee.org/abstract/document/10181507)|null|
-
-
 
 
 
