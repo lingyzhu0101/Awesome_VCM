@@ -8,7 +8,7 @@ Paper list of visual data compression for machines, including image/video coding
 - Some papers may simultaneously belong to multiple subfields, and we will categorize them accordingly to reflect these overlaps.
 - We look forward to your contributions and discussions! Thank you!
 
-## Updated on 2024.09.08
+## Updated on 2024.11.15
 
 <details>
   <summary>Table of Contents</summary>
