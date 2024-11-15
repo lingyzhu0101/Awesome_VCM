@@ -43,13 +43,11 @@ Paper list of visual data compression for machines, including image/video coding
 |**2023.12**|**Scalable Face Image Coding via StyleGAN Prior: Towards Compression for Human-Machine Collaborative Vision**|Qi Mao et.al.|[TIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10372532)|null|
 |**2023.10**|**Deepsvc: Deep scalable video coding for both machine and human vision**|Hongbin Lin et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3612500)|null|
 |**2023.10**|**ICMH-Net: Neural Image Compression Towards both Machine Vision and Human Vision**|Lei Liu et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3612041)|null|
+|**2023.10**|**Video Object Detection From Compressed Formats for Modern Lightweight Consumer Electronics**|Sangeeta Yadav et.al.|[TCE](https://ieeexplore.ieee.org/abstract/document/10287576)|null|
 |**2023.08**|**Unified Architecture Adaptation for Compressed Domain Semantic Inference**|Zhihao Duan et.al.|[TCSVT](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10029924)|null|
+|**2023.06**|**Semantic Preprocessor for Image Compression for Machines**|Mingyi Yang et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/10096472)|null|
 |**2023.05**|**Prompt-icm: A unified framework towards image coding for machines with task-driven prompts**|Ruoyu Feng et.al.|[2305.02578](https://arxiv.org/abs/2305.02578)|null|
-
-
-
-
-
+|**2023.05**|**Fast VVC Intra Encoding for Video Coding for Machines**|Aorui Gou et.al.|[ISCAS](https://ieeexplore.ieee.org/abstract/document/10181507)|null|
 
 
 
@@ -64,6 +62,12 @@ Paper list of visual data compression for machines, including image/video coding
 |---|---|---|---|---|
 |**2024.05**|**Split Computing With Scalable Feature Compression for Visual Analytics on the Edge**|Zhongzheng Yuan et.al.|[TMM](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10540267)|null|
 |**2024.04**|**Hierarchical Image Feature Compression for Machines via Feature Sparsity Learning**|Ding Ding et.al.|[SPL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10540267)|null|
+|**2023.07**|**Residual based hierarchical feature compression for multi-task machine vision**|Chaoran Chen et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/10219664)|null|
+|**2023.06**|**Learnt mutual feature compression for machine vision**|Tie Liu et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/10094830)|null|
+
+
+
+
 
 
 
@@ -108,8 +112,10 @@ Paper list of visual data compression for machines, including image/video coding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024.10**|**High Efficiency Image Compression for Large Visual-Language Models**|Binzhe Li et.al.|[TCSVT](https://ieeexplore.ieee.org/abstract/document/10738826)|null|
 |**2024.08**|**Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs**|Jinming Liu et.al.|[2408.08575](https://arxiv.org/pdf/2408.08575)|null|
 |**2024.07**|**ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck**|Chia-Hao Kao et.al.|[2407.19651](https://arxiv.org/pdf/2407.19651)|null|
+
 
 
 
