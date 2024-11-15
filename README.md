@@ -25,7 +25,6 @@ Paper list of visual data compression for machines, including image/video coding
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-
 |**2024.08**|**Preprocessing Enhanced Image Compression for Machine Vision**|Guo Lu et.al.|[TCSVT](https://ieeexplore.ieee.org/abstract/document/10632166)|null|
 |**2024.08**|**A coding framework and benchmark towards low-bitrate video understanding**|Yuan Tian et.al.|[TPAMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10440520)|null|
 |**2024.08**|**Privacy-Preserving Autoencoder for Collaborative Object Detection**|Bardia Azizian et.al.|[TIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10667003)|null|
@@ -42,12 +41,6 @@ Paper list of visual data compression for machines, including image/video coding
 |**2024.04**|**A Perspective on Deep Vision Performance with Standard Image and Video Codecs**|Christoph Reich et.al.|[CVPRW](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Reich_A_Perspective_on_Deep_Vision_Performance_with_Standard_Image_and_CVPRW_2024_paper.pdf)|null|
 |**2024.04**|**Task-Aware Encoder Control for Deep Video Compression**|Xingtong Ge et.al.|[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Ge_Task-Aware_Encoder_Control_for_Deep_Video_Compression_CVPR_2024_paper.pdf)|null|
 |**2023.08**|**Unified Architecture Adaptation for Compressed Domain Semantic Inference**|Zhihao Duan et.al.|[TCSVT](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10029924)|null|
-
-
-
-
-
-
 
 
 
