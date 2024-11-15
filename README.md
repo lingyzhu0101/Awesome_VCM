@@ -4,9 +4,9 @@ Paper list of visual data compression for machines, including image/video coding
 **Maintained by:** [Lingyu Zhu](https://scholar.google.com/citations?user=IhyTEDkAAAAJ&hl=zh-CN) and [Peilin Chen](https://scholar.google.com/citations?user=b9k152sAAAAJ&hl=zh-CN)
 
 # Notes
-1. If you come across recipes that work well and fit this topic, feel free to post them as a Discussion. Looking forward to your sharing and discussion! Many Thanks!
-2. The papers might redulant beloge to different areas, we list them.
-
+- If you find recipes that are relevant to this topic, please share them as a discussion post.
+- Some papers may simultaneously belong to multiple subfields, and we will categorize them accordingly to reflect these overlaps.
+- We look forward to your contributions and discussions! Thank you!
 
 ## Updated on 2024.09.08
 
