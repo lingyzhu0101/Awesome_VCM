@@ -29,7 +29,7 @@ If you come across recipes that work well and fit this topic, feel free to post 
 |**2024.07**|**Video Coding for Machines: Compact Visual Representation Compression for Intelligent Collaborative Analytics**|Wenhan Yang et.al.|[TPAMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10440522)|null|
 |**2024.07**|**Rate-Distortion-Cognition Controllable Versatile Neural Image Compression**|Jinming Liu et.al.|[2407.11700](https://arxiv.org/abs/2407.11700)|null|
 |**2024.06**|**SMC++: Masked Learning of Unsupervised Video Semantic Compression**|Yuan Tian et.al.|[2406.04765](https://arxiv.org/pdf/2406.04765)|null|
-|**2024.06**|**Machine Perception-Driven Facial Image Compression: A Layered Generative Approach**|Yuefeng Zhang Ge et.al.|[TCSVT](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10570244)|null|
+|**2024.06**|**Machine Perception-Driven Facial Image Compression: A Layered Generative Approach**|Yuefeng Zhang et.al.|[TCSVT](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10570244)|null|
 |**2024.04**|**Deep Video Codec Control for Vision Model**|Christoph Reich et.al.|[2308.16215](https://arxiv.org/pdf/2308.16215)|null|
 |**2024.04**|**A Perspective on Deep Vision Performance with Standard Image and Video Codecs**|Christoph Reich et.al.|[CVPRW](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Reich_A_Perspective_on_Deep_Vision_Performance_with_Standard_Image_and_CVPRW_2024_paper.pdf)|null|
 |**2024.04**|**Task-Aware Encoder Control for Deep Video Compression**|Xingtong Ge et.al.|[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Ge_Task-Aware_Encoder_Control_for_Deep_Video_Compression_CVPR_2024_paper.pdf)|null|
