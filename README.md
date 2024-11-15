@@ -40,8 +40,11 @@ Paper list of visual data compression for machines, including image/video coding
 |**2024.04**|**Deep Video Codec Control for Vision Model**|Christoph Reich et.al.|[2308.16215](https://arxiv.org/pdf/2308.16215)|null|
 |**2024.04**|**A Perspective on Deep Vision Performance with Standard Image and Video Codecs**|Christoph Reich et.al.|[CVPRW](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/papers/Reich_A_Perspective_on_Deep_Vision_Performance_with_Standard_Image_and_CVPRW_2024_paper.pdf)|null|
 |**2024.04**|**Task-Aware Encoder Control for Deep Video Compression**|Xingtong Ge et.al.|[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Ge_Task-Aware_Encoder_Control_for_Deep_Video_Compression_CVPR_2024_paper.pdf)|null|
+|**2023.12**|**Scalable Face Image Coding via StyleGAN Prior: Towards Compression for Human-Machine Collaborative Vision**|Qi Mao et.al.|[TIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10372532)|null|
+|**2023.10**|**Deepsvc: Deep scalable video coding for both machine and human vision**|Hongbin Lin et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3612500)|null|
+|**2023.10**|**ICMH-Net: Neural Image Compression Towards both Machine Vision and Human Vision**|Lei Liu et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3612041)|null|
 |**2023.08**|**Unified Architecture Adaptation for Compressed Domain Semantic Inference**|Zhihao Duan et.al.|[TCSVT](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10029924)|null|
-
+|**2023.05**|**Prompt-icm: A unified framework towards image coding for machines with task-driven prompts**|Ruoyu Feng et.al.|[2305.02578](https://arxiv.org/abs/2305.02578)|null|
 
 
 
@@ -75,6 +78,10 @@ Paper list of visual data compression for machines, including image/video coding
 |**2024.07**|**Vnvc: A versatile neural video coding framework for efficient human-machine vision**|Xihua Sheng et.al.|[TPAMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10411051)|null|
 |**2024.06**|**Human–Machine Collaborative Image Compression Method Based on Implicit Neural Representation**|Huanyang Li et.al.|[J EM SEL TOP C](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10495030)|null|
 |**2024.02**|**Scalable Human-Machine Point Cloud Compression**|Mateen Ulhaq et.al.|[PCS](https://arxiv.org/pdf/2402.12532)|null|
+|**2023.12**|**Scalable Face Image Coding via StyleGAN Prior: Towards Compression for Human-Machine Collaborative Vision**|Qi Mao et.al.|[TIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10372532)|null|
+|**2023.10**|**Deepsvc: Deep scalable video coding for both machine and human vision**|Hongbin Lin et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3612500)|null|
+|**2023.10**|**ICMH-Net: Neural Image Compression Towards both Machine Vision and Human Vision**|Lei Liu et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3612041)|null|
+
 
 
 
@@ -88,6 +95,9 @@ Paper list of visual data compression for machines, including image/video coding
 |**2024.07**|**Towards Point Cloud Compression for Machine Perception: A Simple and Strong Baseline by Learning the Octree Depth Level Predictor**|Lei Liu et.al.|[IJCAI](https://link.springer.com/chapter/10.1007/978-981-97-6125-8_1)|null|
 |**2024.02**|**Scalable Human-Machine Point Cloud Compression**|Mateen Ulhaq et.al.|[PCS](https://arxiv.org/pdf/2402.12532)|null|
 |**2023.10**|**Deep learning-based compressed domain point cloud classification**|Abdelrahman Seleem et.al.|[ICIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10222160)|null|
+
+
+
 
 
 
