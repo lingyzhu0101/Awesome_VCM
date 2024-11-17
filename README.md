@@ -50,6 +50,7 @@ Paper list of visual data compression for machines, including image/video coding
 |**2023.06**|**Semantic Preprocessor for Image Compression for Machines**|Mingyi Yang et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/10096472)|null|
 |**2023.05**|**Prompt-icm: A unified framework towards image coding for machines with task-driven prompts**|Ruoyu Feng et.al.|[2305.02578](https://arxiv.org/abs/2305.02578)|null|
 |**2023.05**|**Fast VVC Intra Encoding for Video Coding for Machines**|Aorui Gou et.al.|[ISCAS](https://ieeexplore.ieee.org/abstract/document/10181507)|null|
+|**2019.05**|**DSSLIC: Deep Semantic Segmentation-based Layered Image Compression**|Mohammad Akbari et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/8683541)|null|
 
 
 
