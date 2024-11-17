@@ -50,7 +50,15 @@ Paper list of visual data compression for machines, including image/video coding
 |**2023.06**|**Semantic Preprocessor for Image Compression for Machines**|Mingyi Yang et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/10096472)|null|
 |**2023.05**|**Prompt-icm: A unified framework towards image coding for machines with task-driven prompts**|Ruoyu Feng et.al.|[2305.02578](https://arxiv.org/abs/2305.02578)|null|
 |**2023.05**|**Fast VVC Intra Encoding for Video Coding for Machines**|Aorui Gou et.al.|[ISCAS](https://ieeexplore.ieee.org/abstract/document/10181507)|null|
+|**2021.05**|**Collaborative Intelligence: Challenges and Opportunities**|Ivan V. Bajić et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9413943)|null|
+|**2021.02**|**Pareto-Optimal Bit Allocation for Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[TIP](https://ieeexplore.ieee.org/abstract/document/9364873)|null|
+|**2020.05**|**Bit Allocation for Multi-Task Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9054770)|null|
+|**2019.08**|**Multi-Task Learning with Compressible Features for Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/8803110)|null|
 |**2019.05**|**DSSLIC: Deep Semantic Segmentation-based Layered Image Compression**|Mohammad Akbari et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/8683541)|null|
+
+
+
+
 
 
 
@@ -73,6 +81,9 @@ Paper list of visual data compression for machines, including image/video coding
 |**2024.04**|**Hierarchical Image Feature Compression for Machines via Feature Sparsity Learning**|Ding Ding et.al.|[SPL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10540267)|null|
 |**2023.07**|**Residual based hierarchical feature compression for multi-task machine vision**|Chaoran Chen et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/10219664)|null|
 |**2023.06**|**Learnt mutual feature compression for machine vision**|Tie Liu et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/10094830)|null|
+|**2021.02**|**Pareto-Optimal Bit Allocation for Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[TIP](https://ieeexplore.ieee.org/abstract/document/9364873)|null|
+|**2020.05**|**Bit Allocation for Multi-Task Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9054770)|null|
+|**2019.08**|**Multi-Task Learning with Compressible Features for Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/8803110)|null|
 
 
 
@@ -95,6 +106,9 @@ Paper list of visual data compression for machines, including image/video coding
 |**2023.10**|**Sketch Assisted Face Image Coding for Human and Machine Vision: A Joint Training Approach**|Xin Fang et.al.|[TCSVT](https://ieeexplore.ieee.org/abstract/document/10082973)|null|
 |**2023.10**|**Deepsvc: Deep scalable video coding for both machine and human vision**|Hongbin Lin et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3612500)|null|
 |**2023.10**|**ICMH-Net: Neural Image Compression Towards both Machine Vision and Human Vision**|Lei Liu et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3612041)|null|
+|**2021.02**|**Pareto-Optimal Bit Allocation for Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[TIP](https://ieeexplore.ieee.org/abstract/document/9364873)|null|
+|**2020.05**|**Bit Allocation for Multi-Task Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9054770)|null|
+|**2019.08**|**Multi-Task Learning with Compressible Features for Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/8803110)|null|
 
 
 
