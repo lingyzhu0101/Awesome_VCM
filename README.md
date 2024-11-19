@@ -4,9 +4,9 @@ Paper list of visual data compression for machines, including image/video coding
 **Maintained by:** [Lingyu Zhu](https://scholar.google.com/citations?user=IhyTEDkAAAAJ&hl=zh-CN) and [Peilin Chen](https://scholar.google.com/citations?user=b9k152sAAAAJ&hl=zh-CN)
 
 
-## Overview
+# Overview
 <p align="left">
-<img src="src/framework.png" width=100% height=80% 
+<img src="src/framework.png" width=90% height=80% 
 class="center">
 </p>
 
@@ -16,7 +16,7 @@ class="center">
 - Looking forward to your kind contributions and discussions! Many thanks!
 
 
-## Updated on 2024.11.15
+# Updated on 2024.11.19
 
 <details>
   <summary>Table of Contents</summary>
