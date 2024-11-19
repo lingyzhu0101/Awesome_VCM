@@ -6,15 +6,15 @@ Paper list of visual data compression for machines, including image/video coding
 
 ## Overview
 <p align="left">
-<img src="src/framework.png" width=95% height=80% 
+<img src="src/framework.png" width=100% height=80% 
 class="center">
 </p>
-
 
 # Notes
 - If you find papers relevant to this topic, please share them as a discussion post.
 - Some papers may simultaneously belong to multiple subfields, and we categorize them accordingly to reflect these overlaps.
 - Looking forward to your kind contributions and discussions! Many thanks!
+
 
 ## Updated on 2024.11.15
 
