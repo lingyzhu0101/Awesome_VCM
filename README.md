@@ -6,7 +6,7 @@ Paper list of visual data compression for machines, including image/video coding
 
 # Overview
 <p align="left">
-<img src="src/framework.png" width=90% height=80% 
+<img src="src/framework.pdf" width=90% height=80% 
 class="center">
 </p>
 
