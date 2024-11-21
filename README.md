@@ -78,28 +78,10 @@ class="center">
 |**2020.01**|**Towards Efficient Front-End Visual Sensing for Digital Retina: A Model-Centric Paradigm**|Yihang Lou et.al.|[TMM](https://ieeexplore.ieee.org/abstract/document/8960464)|null|
 |**2019.10**|**AdaCompress: Adaptive Compression for Online Computer Vision Services**|Hongshan Li et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3343031.3350874)|null|
 |**2019.08**|**Multi-Task Learning with Compressible Features for Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/8803110)|null|
+|**2019.08**|**Image Pre-Transformation for Recognition-Aware Image Compression**|Satoshi Suzuki et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/8803275)|null|
 |**2019.08**|**Layered conceptual image compression via deep semantic synthesis**|Jianhui Chang et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/8803805)|null|
 |**2019.05**|**DSSLIC: Deep Semantic Segmentation-based Layered Image Compression**|Mohammad Akbari et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/8683541)|null|
 |**2019.05**|**Pixel-level Texture Segmentation Based AV1 Video Compression**|Di Chen et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/8682641)|null|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -126,13 +108,29 @@ class="center">
 |**2021.06**|**Semantics-to-Signal Scalable Image Compression with Learned Revertible Representations**|Kang Liu et.al.|[IJCV](https://link.springer.com/article/10.1007/s11263-021-01491-7)|null|
 |**2021.02**|**Pareto-Optimal Bit Allocation for Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[TIP](https://ieeexplore.ieee.org/abstract/document/9364873)|null|
 |**2020.12**|**Sensitivity-Aware Bit Allocation for Intermediate Deep Feature Compression**|Yuzhang Hu et.al.|[VCIP](https://ieeexplore.ieee.org/abstract/document/9301807))|null|
+|**2020.10**|**End-to-End Learning of Compressible Features**|Saurabh Singh et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/9190860)|null|
 |**2020.10**|**Data Representation in Hybrid Coding Framework for Feature Maps Compression**|Zhuo Chen et.al.|[ICIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9190843)|null|
+|**2020.10**|**Deep Feature Compression With Spatio-Temporal Arranging for Collaborative Intelligence**|Satoshi Suzuki et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/9190933)|null|
+|**2020.07**|**Object-Based Image Coding: A Learning-Driven Revisit**|Qi Xia et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9102810)|null|
+|**2020.07**|**An Emerging Coding Paradigm Vcm: A Scalable Coding Approach Beyond Feature And Signal**|Sifeng Xia et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9102843)|null|
 |**2020.05**|**Deriving Compact Feature Representations Via Annealed Contraction**|Muhammad A. Shah et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9054527)|null|
 |**2020.05**|**Bit Allocation for Multi-Task Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9054770)|null|
+|**2020.03**|**Binary Representation and High Efficient Compression of 3D CNN Features for Action Recognition**|Peiyin Xing et.al.|[DCC](https://ieeexplore.ieee.org/abstract/document/9105757)|null|
 |**2019.10**|**Lossy Intermediate Deep Learning Feature Compression and Evaluation**|Zhuo Chen et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3343031.3350849)|null|
 |**2019.09**|**Toward Intelligent Sensing: Intermediate Deep Feature Compression**|Zhuo Chen et.al.|[TIP](https://ieeexplore.ieee.org/abstract/document/8848858)|null|
+|**2019.09**|**Semantically Scalable Image Coding With Compression of Feature Maps**|Ning Yan et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/9191184)|null|
 |**2019.08**|**Multi-Task Learning with Compressible Features for Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/8803110)|null|
 |**2019.05**|**Pixel-level Texture Segmentation Based AV1 Video Compression**|Di Chen et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/8682641)|null|
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -170,11 +168,25 @@ class="center">
 |**2023.10**|**Deepsvc: Deep scalable video coding for both machine and human vision**|Hongbin Lin et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3612500)|null|
 |**2023.10**|**ICMH-Net: Neural Image Compression Towards both Machine Vision and Human Vision**|Lei Liu et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3612041)|null|
 |**2021.06**|**Semantics-to-Signal Scalable Image Compression with Learned Revertible Representations**|Kang Liu et.al.|[IJCV](https://link.springer.com/article/10.1007/s11263-021-01491-7)|null|
+|**2021.06**|**Towards Analysis-Friendly Face Representation With Scalable Feature and Texture Compression**|Shurun Wang et.al.|[TCSVT](https://ieeexplore.ieee.org/abstract/document/9473014)|null|
+|**2021.05**|**Teacher-Student Learning With Multi-Granularity Constraint Towards Compact Facial Feature Representation**|Shurun Wang et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9413506)|null|
 |**2021.02**|**Pareto-Optimal Bit Allocation for Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[TIP](https://ieeexplore.ieee.org/abstract/document/9364873)|null|
 |**2020.07**|**Towards Coding For Human And Machine Vision: A Scalable Image Coding Approach**|Yueyu Hu et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9102750)|null|
+|**2020.07**|**An Emerging Coding Paradigm Vcm: A Scalable Coding Approach Beyond Feature And Signal**|Sifeng Xia et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9102843)|null|
 |**2020.05**|**Bit Allocation for Multi-Task Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9054770)|null|
 |**2019.08**|**Multi-Task Learning with Compressible Features for Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/8803110)|null|
+|**2019.08**|**Scalable Facial Image Compression with Deep Feature Reconstruction**|Shurun Wang et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/8803255)|null|
 |**2019.05**|**Pixel-level Texture Segmentation Based AV1 Video Compression**|Di Chen et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/8682641)|null|
+
+
+
+
+
+
+
+
+
+
 
 
 
