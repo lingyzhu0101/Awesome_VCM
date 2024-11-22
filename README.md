@@ -34,6 +34,7 @@ class="center">
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2021.08**|**Digital Retina: A Way to Make the City Brain More Efficient by Visual Coding**|Wen Gao et.al.|[TCSVT](https://ieeexplore.ieee.org/abstract/document/9514562)|null|
+|**2024.11**|**Compact Visual Data Representation for Green Multimedia - A Human Visual System Perspective**|Peilin Chen et.al.|[2411.14135](https://arxiv.org/pdf/2411.14135)|null|
 |**2024.08**|**Preprocessing Enhanced Image Compression for Machine Vision**|Guo Lu et.al.|[TCSVT](https://ieeexplore.ieee.org/abstract/document/10632166)|null|
 |**2024.08**|**A coding framework and benchmark towards low-bitrate video understanding**|Yuan Tian et.al.|[TPAMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10440520)|null|
 |**2024.08**|**Privacy-Preserving Autoencoder for Collaborative Object Detection**|Bardia Azizian et.al.|[TIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10667003)|null|
