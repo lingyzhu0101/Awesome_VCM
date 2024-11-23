@@ -43,6 +43,7 @@ class="center">
 |**2024.07**|**Vnvc: A versatile neural video coding framework for efficient human-machine vision**|Xihua Sheng et.al.|[TPAMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10411051)|null|
 |**2024.07**|**Video Coding for Machines: Compact Visual Representation Compression for Intelligent Collaborative Analytics**|Wenhan Yang et.al.|[TPAMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10440522)|null|
 |**2024.07**|**Rate-Distortion-Cognition Controllable Versatile Neural Image Compression**|Jinming Liu et.al.|[2407.11700](https://arxiv.org/abs/2407.11700)|null|
+|**2024.06**|**On Annotation-free Optimization of Video Coding for Machines**|Marc Windsheimer et.al.|[2406.07938](https://arxiv.org/abs/2406.07938)|null|
 |**2024.06**|**SMC++: Masked Learning of Unsupervised Video Semantic Compression**|Yuan Tian et.al.|[2406.04765](https://arxiv.org/pdf/2406.04765)|null|
 |**2024.06**|**Machine Perception-Driven Facial Image Compression: A Layered Generative Approach**|Yuefeng Zhang et.al.|[TCSVT](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10570244)|null|
 |**2024.06**|**Human–Machine Collaborative Image Compression Method Based on Implicit Neural Representation**|Huanyang Li et.al.|[J EM SEL TOP C](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10495030)|null|
