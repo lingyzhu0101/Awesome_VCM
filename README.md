@@ -59,8 +59,11 @@ class="center">
 |**2023.10**|**Video Object Detection From Compressed Formats for Modern Lightweight Consumer Electronics**|Sangeeta Yadav et.al.|[TCE](https://ieeexplore.ieee.org/abstract/document/10287576)|null|
 |**2023.08**|**Unified Architecture Adaptation for Compressed Domain Semantic Inference**|Zhihao Duan et.al.|[TCSVT](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10029924)|null|
 |**2023.06**|**Semantic Preprocessor for Image Compression for Machines**|Mingyi Yang et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/10096472)|null|
+|**2023.05**|**Rate-Distortion Theory in Coding for Machines and its Application**|Alon Harell et.al.|[2305.17295](https://arxiv.org/abs/2305.17295)|null|
 |**2023.05**|**Prompt-icm: A unified framework towards image coding for machines with task-driven prompts**|Ruoyu Feng et.al.|[2305.02578](https://arxiv.org/abs/2305.02578)|null|
 |**2023.05**|**Fast VVC Intra Encoding for Video Coding for Machines**|Aorui Gou et.al.|[ISCAS](https://ieeexplore.ieee.org/abstract/document/10181507)|null|
+|**2022.12**|**Semantic Segmentation In Learned Compressed Domain**|Jinming Liu et.al.|[PCS](https://ieeexplore.ieee.org/abstract/document/10018036)|null|
+|**2022.08**|**Improving Multiple Machine Vision Tasks in the Compressed Domain**|Jinming Liu et.al.|[ICPR](https://ieeexplore.ieee.org/abstract/document/9956532)|null|
 |**2022.03**|**Scalable Image Coding for Humans and Machines**|Hyomin Choi et.al.|[TIP](https://ieeexplore.ieee.org/abstract/document/9741390)|null|
 |**2021.07**|**Thousand to One: Semantic Prior Modeling for Conceptual Coding**|Jianhui Chang et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9428366)|null|
 |**2021.07**|**Visual Analysis Motivated Rate-Distortion Model for Image Coding**|Zhimeng Huang et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9428417)|null|
@@ -78,6 +81,7 @@ class="center">
 |**2020.07**|**Towards Coding For Human And Machine Vision: A Scalable Image Coding Approach**|Yueyu Hu et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9102750)|null|
 |**2020.06**|**Image Compression With Encoder-Decoder Matched Semantic Segmentation**|Trinh Man Hoang et.al.|[CVPRW](https://openaccess.thecvf.com/content_CVPRW_2020/html/w7/Hoang_Image_Compression_With_Encoder-Decoder_Matched_Semantic_Segmentation_CVPRW_2020_paper.html)|null|
 |**2020.05**|**Back-And-Forth Prediction for Deep Tensor Compression**|Hyomin Choi et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9053011)|null|
+|**2020.05**|**Binary Probability Model for Learning Based Image Compression**|Théo LADUNE et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9053997)|null|
 |**2020.05**|**Bit Allocation for Multi-Task Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9054770)|null|
 |**2020.01**|**Towards Efficient Front-End Visual Sensing for Digital Retina: A Model-Centric Paradigm**|Yihang Lou et.al.|[TMM](https://ieeexplore.ieee.org/abstract/document/8960464)|null|
 |**2019.10**|**AdaCompress: Adaptive Compression for Online Computer Vision Services**|Hongshan Li et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3343031.3350874)|null|
@@ -86,6 +90,9 @@ class="center">
 |**2019.08**|**Layered conceptual image compression via deep semantic synthesis**|Jianhui Chang et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/8803805)|null|
 |**2019.05**|**DSSLIC: Deep Semantic Segmentation-based Layered Image Compression**|Mohammad Akbari et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/8683541)|null|
 |**2019.05**|**Pixel-level Texture Segmentation Based AV1 Video Compression**|Di Chen et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/8682641)|null|
+
+
+
 
 
 
