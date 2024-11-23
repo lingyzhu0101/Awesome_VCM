@@ -65,6 +65,7 @@ class="center">
 |**2021.07**|**Thousand to One: Semantic Prior Modeling for Conceptual Coding**|Jianhui Chang et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9428366)|null|
 |**2021.07**|**Visual Analysis Motivated Rate-Distortion Model for Image Coding**|Zhimeng Huang et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9428417)|null|
 |**2021.07**|**Learned Image Coding for Machines: A Content-Adaptive Approach**|Nam Le et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9428224)|null|
+|**2021.05**|**Robust Deep Neural Object Detection and Segmentation for Automotive Driving Scenario with Compressed Image Data**|Kristian Fischer et.al.|[ISCAS](https://ieeexplore.ieee.org/abstract/document/9401621)|null|
 |**2021.05**|**End-to-end optimized image compression for machines, a study**|Lahiru D. Chamain et.al.|[DCC](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9418723)|null|
 |**2021.05**|**Collaborative Intelligence: Challenges and Opportunities**|Ivan V. Bajić et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9413943)|null|
 |**2021.05**|**Recent Standard Development Activities on Video Coding for Machines**|Wen Gao et.al.|[2105.12653](https://arxiv.org/abs/2105.12653)|null|
