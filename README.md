@@ -53,6 +53,7 @@ class="center">
 |**2024.04**|**Task-Aware Encoder Control for Deep Video Compression**|Xingtong Ge et.al.|[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Ge_Task-Aware_Encoder_Control_for_Deep_Video_Compression_CVPR_2024_paper.pdf)|null|
 |**2023.12**|**Image Coding for Machines based on Non-Uniform Importance Allocation**|Yunpeng Qi et.al.|[VCIP](https://ieeexplore.ieee.org/abstract/document/10402758)|null|
 |**2023.12**|**Scalable Face Image Coding via StyleGAN Prior: Towards Compression for Human-Machine Collaborative Vision**|Qi Mao et.al.|[TIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10372532)|null|
+|**2023.12**|**Pixel-level Texture Segmentation Based AV1 Video Compression**|Zixiang Zhang et.al.|[VCIP](https://ieeexplore.ieee.org/abstract/document/10402607)|null|
 |**2023.10**|**Sketch Assisted Face Image Coding for Human and Machine Vision: A Joint Training Approach**|Xin Fang et.al.|[TCSVT](https://ieeexplore.ieee.org/abstract/document/10082973)|null|
 |**2023.10**|**Deepsvc: Deep scalable video coding for both machine and human vision**|Hongbin Lin et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3612500)|null|
 |**2023.10**|**ICMH-Net: Neural Image Compression Towards both Machine Vision and Human Vision**|Lei Liu et.al.|[ACM MM](https://dl.acm.org/doi/abs/10.1145/3581783.3612041)|null|
@@ -65,6 +66,7 @@ class="center">
 |**2022.12**|**Semantic Segmentation In Learned Compressed Domain**|Jinming Liu et.al.|[PCS](https://ieeexplore.ieee.org/abstract/document/10018036)|null|
 |**2022.08**|**Improving Multiple Machine Vision Tasks in the Compressed Domain**|Jinming Liu et.al.|[ICPR](https://ieeexplore.ieee.org/abstract/document/9956532)|null|
 |**2022.03**|**Scalable Image Coding for Humans and Machines**|Hyomin Choi et.al.|[TIP](https://ieeexplore.ieee.org/abstract/document/9741390)|null|
+|**2021.09**|**Analysis Of Neural Image Compression Networks For Machine-To-Machine Communication**|Kristian Fischer et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/9506763)|null|
 |**2021.07**|**Thousand to One: Semantic Prior Modeling for Conceptual Coding**|Jianhui Chang et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9428366)|null|
 |**2021.07**|**Visual Analysis Motivated Rate-Distortion Model for Image Coding**|Zhimeng Huang et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9428417)|null|
 |**2021.07**|**Learned Image Coding for Machines: A Content-Adaptive Approach**|Nam Le et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9428224)|null|
@@ -73,10 +75,12 @@ class="center">
 |**2021.05**|**Collaborative Intelligence: Challenges and Opportunities**|Ivan V. Bajić et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9413943)|null|
 |**2021.05**|**Recent Standard Development Activities on Video Coding for Machines**|Wen Gao et.al.|[2105.12653](https://arxiv.org/abs/2105.12653)|null|
 |**2021.05**|**Image Coding For Machines: an End-To-End Learned Approach**|Nam Le et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9414465)|null|
+|**2021.05**|**Saliency-Driven Versatile Video Coding for Neural Object Detection**|Kristian Fischer et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9415048)|null|
 |**2021.03**|**Towards Coding for Human and Machine Vision: Scalable Face Image Coding**|Shuai Yang et.al.|[TMM](https://ieeexplore.ieee.org/abstract/document/9385898)|null|
 |**2021.02**|**Pareto-Optimal Bit Allocation for Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[TIP](https://ieeexplore.ieee.org/abstract/document/9364873)|null|
 |**2020.11**|**Task-Aware Quantization Network for JPEG Image Compression**|Jinyoung Choi et.al.|[ECCV](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_19)|null|
 |**2020.10**|**Semantic-Preserving Image Compression**|Neel Patwa et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/9191247)|null|
+|**2020.10**|**On Intra Video Coding And In-Loop Filtering For Neural Object Detection Networks**|Kristian Fischer et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/8682641)|null|
 |**2020.08**|**Video Coding for Machines: A Paradigm of Collaborative Compression and Intelligent Analytics**|Lingyu Duan et.al.|[TIP](https://ieeexplore.ieee.org/abstract/document/9180095)|null|
 |**2020.07**|**Towards Coding For Human And Machine Vision: A Scalable Image Coding Approach**|Yueyu Hu et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9102750)|null|
 |**2020.06**|**Image Compression With Encoder-Decoder Matched Semantic Segmentation**|Trinh Man Hoang et.al.|[CVPRW](https://openaccess.thecvf.com/content_CVPRW_2020/html/w7/Hoang_Image_Compression_With_Encoder-Decoder_Matched_Semantic_Segmentation_CVPRW_2020_paper.html)|null|
@@ -90,6 +94,9 @@ class="center">
 |**2019.08**|**Layered conceptual image compression via deep semantic synthesis**|Jianhui Chang et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/8803805)|null|
 |**2019.05**|**DSSLIC: Deep Semantic Segmentation-based Layered Image Compression**|Mohammad Akbari et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/8683541)|null|
 |**2019.05**|**Pixel-level Texture Segmentation Based AV1 Video Compression**|Di Chen et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/8682641)|null|
+
+
+
 
 
 
