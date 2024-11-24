@@ -250,7 +250,7 @@ class="center">
 |**2024.08**|**Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs**|Jinming Liu et.al.|[2408.08575](https://arxiv.org/pdf/2408.08575)|null|
 |**2024.08**|**When Video Coding Meets Multimodal Large Language Models: A Unified Paradigm for Video Coding**|Pingping Zhang et.al.|[2408.08093](https://arxiv.org/pdf/2408.08093)|null|
 |**2024.07**|**ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck**|Chia-Hao Kao et.al.|[2407.19651](https://arxiv.org/pdf/2407.19651)|null|
-|**2024.07**|**High Efficiency Image Compression for Large Visual-Language Models**|Binzhe Li et.al.|[2407.17060](https://www.arxiv.org/abs/2407.17060)|null|
+
 
 
 
