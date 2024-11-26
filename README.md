@@ -104,10 +104,6 @@ class="center">
 
 
 
-
-
-
-
 ## Feature Compression
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -135,6 +131,7 @@ class="center">
 |**2019.09**|**Semantically Scalable Image Coding With Compression of Feature Maps**|Ning Yan et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/9191184)|null|
 |**2019.08**|**Multi-Task Learning with Compressible Features for Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/8803110)|null|
 |**2019.05**|**Pixel-level Texture Segmentation Based AV1 Video Compression**|Di Chen et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/8682641)|null|
+|**2018.09**|**Deep Feature Compression for Collaborative Object Detection**|Hyomin Choi et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/8451100)|null|
 
 
 
