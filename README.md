@@ -108,12 +108,6 @@ class="center">
 
 
 
-
-
-
-
-
-
 ## Feature Compression
 
 |Publish Date|Title|Authors|PDF|Code|
@@ -130,6 +124,7 @@ class="center">
 |**2020.10**|**End-to-End Learning of Compressible Features**|Saurabh Singh et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/9190860)|null|
 |**2020.10**|**Data Representation in Hybrid Coding Framework for Feature Maps Compression**|Zhuo Chen et.al.|[ICIP](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9190843)|null|
 |**2020.10**|**Deep Feature Compression With Spatio-Temporal Arranging for Collaborative Intelligence**|Satoshi Suzuki et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/9190933)|null|
+|**2020.07**|**Bottlenet++: An end-to-end approach for feature compression in device-edge co-inference systems**|Jiawei Shao et.al.|[ICCW](https://ieeexplore.ieee.org/abstract/document/9145068)|null|
 |**2020.07**|**Object-Based Image Coding: A Learning-Driven Revisit**|Qi Xia et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9102810)|null|
 |**2020.07**|**An Emerging Coding Paradigm Vcm: A Scalable Coding Approach Beyond Feature And Signal**|Sifeng Xia et.al.|[ICME](https://ieeexplore.ieee.org/abstract/document/9102843)|null|
 |**2020.05**|**Deriving Compact Feature Representations Via Annealed Contraction**|Muhammad A. Shah et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/9054527)|null|
@@ -140,6 +135,8 @@ class="center">
 |**2019.09**|**Semantically Scalable Image Coding With Compression of Feature Maps**|Ning Yan et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/9191184)|null|
 |**2019.08**|**Multi-Task Learning with Compressible Features for Collaborative Intelligence**|Saeed Ranjbar Alvar et.al.|[ICIP](https://ieeexplore.ieee.org/abstract/document/8803110)|null|
 |**2019.05**|**Pixel-level Texture Segmentation Based AV1 Video Compression**|Di Chen et.al.|[ICASSP](https://ieeexplore.ieee.org/abstract/document/8682641)|null|
+
+
 
 
 
